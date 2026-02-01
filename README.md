@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Sandra-Es/Sandra-Es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Sandra Elsa Sanjai, a Master's student in Physics of Data at the University of Padua. My interests span **-------**. Below is a selection of projects, both major and minor, that have influenced my growth and shaped my interests. Feel free to reach out using the provided contact information.
 
-Here are some ideas to get you started:
+Mail: [sandra.e.sanjai@gmail.com](sandra.e.sanjai@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Major Projects
+
+These projects involve improving upon existing models or methods through innovative approaches, often yielding strong empirical results.
+
+- [OOD Robustness of Inpainting Models](https://github.com/Sandra-Es/Diffusion_Inpainting_OOD): Benchmarked SoTA inpainting models across multiple corruption axes; generally trained diffusion models were most robust, with +28% performance under semantic shuffling.
+
+-  [TD-VAE](https://github.com/Sandra-Es/TD_VAE_NNDL):  
+
+
+## Minor Projects
+
+These projects are intended to help me become comfortable with a concept or tool; the emphasis is on hands-on understanding rather than benchmark-oriented performance.
+
+
+- [OOD Robustness of Inpainting Models](https://github.com/Sandra-Es/Diffusion_Inpainting_OOD): Benchmarked SoTA inpainting models across multiple corruption axes; generally trained diffusion models were most robust, with +28% performance under semantic shuffling.
