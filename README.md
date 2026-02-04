@@ -9,20 +9,20 @@ Note: Projects with the **(TBD)** label correspond to completed projects that ha
 
 These projects involve improving upon existing models or methods through innovative approaches, often yielding strong empirical results.
 
-- [OOD Robustness of Inpainting Models](https://github.com/Sandra-Es/Diffusion_Inpainting_OOD): Benchmarked SoTA inpainting models across multiple corruption axes; generally trained diffusion models were most robust, with +28% performance under semantic shuffling.
+- [OOD Robustness of Inpainting Models](https://github.com/Sandra-Es/Diffusion_Inpainting_OOD) (2025): Benchmarked SoTA inpainting models across multiple corruption axes; generally trained diffusion models were most robust, with +28% performance under semantic shuffling.
 
--  [Temporal Difference VAE](https://github.com/Sandra-Es/TD_VAE_NNDL): **(TBD)** Built variations of Temporal VAE (VRSSM) with a Markovian latent prior, variational smoothing, and adaptive skip connections for structured sequence modeling. The hierarchical model performed +26% better than a classical CNN-based transformer model.
+-  [Temporal Difference VAE](https://github.com/Sandra-Es/TD_VAE_NNDL) (2024): **(TBD)** Built variations of Temporal VAE (VRSSM) with a Markovian latent prior, variational smoothing, and adaptive skip connections for structured sequence modeling. The hierarchical model performed +26% better than a classical CNN-based transformer model.
 
-- [Protein Folding using Transformers](https://github.com/mihribanyvs/TransformerFromScratch): With two of my colleagues, we implemented a transformer-based model from scratch for probabilistic protein folding prediction from NMR sequence data.
+- [Protein Folding using Transformers](https://github.com/mihribanyvs/TransformerFromScratch) (2023): With two of my colleagues, we implemented a transformer-based model from scratch for probabilistic protein folding prediction from NMR sequence data.
 
 
 ## Minor Projects
 
 These projects are intended to help me become comfortable with a concept or tool; the emphasis is on hands-on understanding rather than benchmark-oriented performance.
 
-- [RAG-based Question-Answering](https://github.com/Sandra-Es/RAG-Restaurants): Built a Question-Answering system based on RAG for restaurants in Padova, Italy. The information regarding the restaurants and their reviews were retrieved using Google API.
+- [RAG-based Question-Answering](https://github.com/Sandra-Es/RAG-Restaurants) (2025): Built a Question-Answering system based on RAG for restaurants in Padova, Italy. The information regarding the restaurants and their reviews were retrieved using Google API.
 
 
-- [Distributed Clustering with Spark](): **(TBD)** Built a distributed k-Means and k-means parallel pipeline in PySpark RDDs to cluster the KDDCup99 network-intrusion dataset (10 K+ records, 41 features), including custom Lloyd’s algorithm and weighted D2 sampling initializer.
+- [Distributed Clustering with Spark]() (2024): **(TBD)** Built a distributed k-Means and k-means parallel pipeline in PySpark RDDs to cluster the KDDCup99 network-intrusion dataset (10 K+ records, 41 features), including custom Lloyd’s algorithm and weighted D2 sampling initializer.
 
-- [Bayesian Vaccine Efficacy](): **(TBD)** Performed Bayesian analysis of EMA-authorized COVID-19 vaccine clinical trial data to estimate and compare efficacy.
+- [Bayesian Vaccine Efficacy]() (2023): **(TBD)** Performed Bayesian analysis of EMA-authorized COVID-19 vaccine clinical trial data to estimate and compare efficacy.
