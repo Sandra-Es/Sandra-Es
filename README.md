@@ -11,7 +11,7 @@ These projects involve improving upon existing models or methods through innovat
 
 - [OOD Robustness of Inpainting Models](https://github.com/Sandra-Es/Diffusion_Inpainting_OOD) (2025): Benchmarked SoTA inpainting models across multiple corruption axes; generally trained diffusion models were most robust, with +28% performance under semantic shuffling.
 
--  [Temporal Difference VAE](https://github.com/Sandra-Es/TD_VAE_NNDL) (2024): **(TBD)** Built variations of Temporal VAE (VRSSM) with a Markovian latent prior, variational smoothing, and adaptive skip connections for structured sequence modeling. The hierarchical model performed +26% better than a classical CNN-based transformer model.
+-  [Temporal Difference VAE](https://github.com/Sandra-Es/Temporal_Difference_VAE) (2024): Built variations of Temporal VAE (VRSSM) with a Markovian latent prior, variational smoothing, and adaptive skip connections for structured sequence modeling. The hierarchical model performed +26% better than a classical CNN-based transformer model.
 
 - [Protein Folding using Transformers](https://github.com/mihribanyvs/TransformerFromScratch) (2023): With two of my colleagues, we implemented a transformer-based model from scratch for probabilistic protein folding prediction from NMR sequence data.
 
