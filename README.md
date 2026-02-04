@@ -20,6 +20,8 @@ These projects involve improving upon existing models or methods through innovat
 
 These projects are intended to help me become comfortable with a concept or tool; the emphasis is on hands-on understanding rather than benchmark-oriented performance.
 
+- [RAG-based Question-Answering](): **(TBD)** Built a Question-Answering system based on RAG for restaurants in Padova, Italy. The information regarding the restaurants and their reviews were retrieved using Google API.
+
 
 - [Distributed Clustering with Spark](): **(TBD)** Built a distributed k-Means and k-means parallel pipeline in PySpark RDDs to cluster the KDDCup99 network-intrusion dataset (10 K+ records, 41 features), including custom Lloyd’s algorithm and weighted D2 sampling initializer.
 
